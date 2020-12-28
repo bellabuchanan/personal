@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Bella Buchanan
+subtitle: Software Engineer
+email: bella@minerva.kgi.edu
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: /personal # the subpath of your site, e.g. /blog
 url: bellabuchanan.github.io# the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Bella Buchanan
+street_address: 
+city: San Francisco
+state: CA
+zip_code: 94102
 country: United States of America
-phone: (716) 555-5555
+phone: (832) 806-4440
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/bellabuchanan
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/bella-buchanan
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
