@@ -1,7 +1,7 @@
 ---
-title: Modeling Climate Change
+title: Resume
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'A comprehensive overview of my experience'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
