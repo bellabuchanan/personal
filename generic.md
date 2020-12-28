@@ -6,4 +6,4 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-This project is very close to my heart.
+This project is very close to my heart. 
